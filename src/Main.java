@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Shape Circle= new Circle(5.0);
 
-        Shape Rectangle=new Rectangle( 8.0 , 3.0);
+        Shape Rectangle=new Rectangle( 6.0 , 3.0);
 
         Shape Triangle= new Triangle(5.0 , 4.0);
 
